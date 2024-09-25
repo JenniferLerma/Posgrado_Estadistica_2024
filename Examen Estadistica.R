@@ -41,5 +41,5 @@ lm(datos)
 # Respuesta pregunta 19 y 20 ----------------------------------------------
 
 #Respuestas preg. 19 : 2.1209
-#Respuestas preg. 20 : 0.6015 
+#Respuestas preg. 20 : 0.6035 
 
