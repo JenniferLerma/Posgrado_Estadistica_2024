@@ -10,4 +10,6 @@ Material del curso de Posgrado de Experimentación y Métodos Estadísticos
 + semana 5: Elaboración de lab.3 y Tarea 1
 + semana 6: Ejercicio de pruebas de T y clase Anovas
 + semana 7: Clase correlación y práctica 
-+ semana 8: Examén Estadistica R. 
++ semana 8: Examén Estadistica R.
++ 
+![image](https://github.com/user-attachments/assets/0cf40e08-1517-468c-9900-6789330f3025)
